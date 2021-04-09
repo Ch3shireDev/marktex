@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.mtx
+*.pdf
+*.ptx
+*.tex
+.vscode
+__pycache__
+*exe
+*.synctex.gz
+*.spec
+dist
